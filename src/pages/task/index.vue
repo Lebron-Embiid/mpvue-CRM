@@ -110,6 +110,9 @@
 		padding: 15px 0 10px;
 		border-bottom: 1px solid #EBEBEB;
 	}
+	.task_item:last-child{
+		border-bottom: 0;
+	}
 	.task_item h3{
 		color: #282828;
 		font-size: 16px;
