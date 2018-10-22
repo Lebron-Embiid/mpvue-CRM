@@ -1,0 +1,8 @@
+{
+  	"navigationBarTitleText": "德盟互联【一个人与我】",
+  	"enablePullDownRefresh": false,
+	"usingComponents": {
+		"i-cell-group": "/static/iview/cell-group/index",
+    	"i-cell": "/static/iview/cell/index"
+	}
+}

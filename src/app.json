@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/person/main",
+    "pages/client/main",
+    "pages/remind/main",
+    "pages/resource/main",
+    "pages/task/main",
+    "pages/number/main",
+    "pages/edit/main",
+    "pages/remindEdit/main",
+    "pages/remindAdd/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#545454",
+    "selectedColor": "#009BDB",
+    "backgroundColor": "#eee",
+    "position": "top",
+    "list": [{
+      "pagePath": "pages/index/main",
+      "text": "首页"
+    },{
+      "pagePath": "pages/client/main",
+      "text": "客户"
+    },{
+      "pagePath": "pages/remind/main",
+      "text": "提醒"
+    },{
+      "pagePath": "pages/person/main",
+      "text": "我的"
+    }]
+  }
+}

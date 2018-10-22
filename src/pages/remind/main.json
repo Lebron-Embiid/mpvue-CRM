@@ -1,0 +1,8 @@
+{
+  	"navigationBarTitleText": "德盟互联【一个人与我】",
+  	"enablePullDownRefresh": false,
+	"usingComponents": {
+	    "i-swipeout": "/static/iview/swipeout/index",
+	    "i-divider": "/static/iview/divider/index"
+	}
+}
